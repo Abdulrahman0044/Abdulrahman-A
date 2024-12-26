@@ -24,7 +24,9 @@ Additionally, I serve as the **African Ambassador** for Kwaai AI Lab, advocating
 ---
 
 ## 📌 Current Projects
-- **PromptTo**: Scaling a startup that simplifies the adoption of AI, robotics, and software development.
+<h4> Machine Learning </h4>
+
+Scaling a startup that simplifies the adoption of AI, robotics, and software development.
 - **7FarmScale**: An IoT-based soil monitoring device for smarter agriculture.
 - **AI Chatbot for Businesses**: Integrating sentiment analysis and content generation models to streamline customer feedback and marketing.
 
@@ -57,4 +59,4 @@ I believe in a future where **humans and machines** are always in the loop, co-c
 ---
 
 ### 🌟 Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=dracula)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=abdulrahman0044&theme=dracula)
