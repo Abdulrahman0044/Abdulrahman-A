@@ -38,16 +38,16 @@ Additionally, I serve as the **African Ambassador** for Kwaai AI Lab, advocating
 ---
 
 ## 🌍 Let's Connect
-- 🖥️ [PromptTo Website](https://www.promptto.com) *(Coming Soon)*
-- 📫 Email: **[Your Email Address]**
-- 🐦 Twitter: [@YourHandle](https://twitter.com/YourHandle)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/YourProfile)
+- 🖥️ [PromptTo Website](https://www.prompttolab.com) *(Coming Soon)*
+- 📫 Email: **[abdulisbaba@gmail.com]**
+- 🐦 Twitter: [@hydrostechAP](https://twitter.com/hydrostechap)
+- 💼 LinkedIn: [Abdulrahman Abdulrahman](https://linkedin.com/in/abdulrahman-abdulrahman)
 
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrahman0044&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman0044&layout=compact&theme=radical)
 
 ---
 
