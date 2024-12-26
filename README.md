@@ -33,14 +33,19 @@ Additionally, I serve as the **African Ambassador** for Kwaai AI Lab, advocating
 
 ### Embedded/IoT Systems Designs
 - **Smart Soil Monitoring System**: Developed a real-time soil monitoring system using IoT and sensors to measure pH, NPK, temperature, moisture, and electrical conductivity.
+
 **Technologies**: ESP32, RS485 7-in-1 sensor, ThingSpeak, Web.
 - **Fish Pond Monitoring System**: Designed an IoT-based system to monitor key parameters in fish ponds, including pH, temperature, ammonia levels, and dissolved oxygen.
+
 **Technologies**: ESP32, IoT sensors, HTML/CSS, ThingSpeak, GSM module, PHP, Python
 - **IoT Weather Station**: Designed a weather monitoring system to measure temperature, humidity, wind speed, and rainfall.
+
 **Technologies**: Arduino, ESP32, DHT11 sensor, ThingSpeak, Python.
 - **Smart Irrigation System**: Built an automated irrigation system that optimizes water usage based on soil moisture levels.
+
 **Technologies**: ESP32, Soil Moisture Sensor, Solar panel, IoT platform.
 - **BB8 Robot**: Built a functional BB8-inspired robot capable of remote-controlled movement and object detection.
+
 **Technologies**: Arduino, Motor Drivers, Bluetooth Module, Ultrasonic Sensors.
 ---
 
