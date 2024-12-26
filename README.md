@@ -24,14 +24,24 @@ Additionally, I serve as the **African Ambassador** for Kwaai AI Lab, advocating
 ---
 
 ## 📌 Current Projects
-<h4> Machine Learning </h4>
+### Machine Learning
 - **AI-Powered Content Generator**: Developed a content creation tool that generates blogs, captions, and tweets based on user prompts.
 - **Text Summarization and Analysis Tool**: Developed an NLP-based tool to summarize and analyze lengthy texts such as articles or reports for better accessibility.
 - **Market Price for Farm Harvested crops**: Finetuned a MBERT and route it with real time market analysis to predict farm output prices.
 - **Maize Farm Yield Prediction**: Developed a K-Means Clustering model to analyze soil parameters, the system identifies clusters of soil conditions and predicts the expected yield for specific conditions.
 - **Sentiment Analysis Engine**: Developed and fine-tuned a sentiment analysis model based on the BERT architecture. The system classifies customer feedback into positive, neutral, or negative sentiments with high accuracy.
 
-<h4> Embedded/IoT Systems Designs </h4>
+### Embedded/IoT Systems Designs
+- **Smart Soil Monitoring System**: Developed a real-time soil monitoring system using IoT and sensors to measure pH, NPK, temperature, moisture, and electrical conductivity.
+**Technologies**: ESP32, RS485 7-in-1 sensor, ThingSpeak, Web.
+- **Fish Pond Monitoring System**: Designed an IoT-based system to monitor key parameters in fish ponds, including pH, temperature, ammonia levels, and dissolved oxygen.
+**Technologies**: ESP32, IoT sensors, HTML/CSS, ThingSpeak, GSM module, PHP, Python
+- **IoT Weather Station**: Designed a weather monitoring system to measure temperature, humidity, wind speed, and rainfall.
+**Technologies**: Arduino, ESP32, DHT11 sensor, ThingSpeak, Python.
+- **Smart Irrigation System**: Built an automated irrigation system that optimizes water usage based on soil moisture levels.
+**Technologies**: ESP32, Soil Moisture Sensor, Solar panel, IoT platform.
+- **BB8 Robot**: Built a functional BB8-inspired robot capable of remote-controlled movement and object detection.
+**Technologies**: Arduino, Motor Drivers, Bluetooth Module, Ultrasonic Sensors.
 ---
 
 ## 🏆 Achievements
