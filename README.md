@@ -25,11 +25,13 @@ Additionally, I serve as the **African Ambassador** for Kwaai AI Lab, advocating
 
 ## 📌 Current Projects
 <h4> Machine Learning </h4>
+- **AI-Powered Content Generator**: Developed a content creation tool that generates blogs, captions, and tweets based on user prompts.
+- **Text Summarization and Analysis Tool**: Developed an NLP-based tool to summarize and analyze lengthy texts such as articles or reports for better accessibility.
+- **Market Price for Farm Harvested crops**: Finetuned a MBERT and route it with real time market analysis to predict farm output prices.
+- **Maize Farm Yield Prediction**: Developed a K-Means Clustering model to analyze soil parameters, the system identifies clusters of soil conditions and predicts the expected yield for specific conditions.
+- **Sentiment Analysis Engine**: Developed and fine-tuned a sentiment analysis model based on the BERT architecture. The system classifies customer feedback into positive, neutral, or negative sentiments with high accuracy.
 
-Scaling a startup that simplifies the adoption of AI, robotics, and software development.
-- **7FarmScale**: An IoT-based soil monitoring device for smarter agriculture.
-- **AI Chatbot for Businesses**: Integrating sentiment analysis and content generation models to streamline customer feedback and marketing.
-
+<h4> Embedded/IoT Systems Designs </h4>
 ---
 
 ## 🏆 Achievements
@@ -59,4 +61,4 @@ I believe in a future where **humans and machines** are always in the loop, co-c
 ---
 
 ### 🌟 Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=abdulrahman0044&theme=dracula)
+![Contribution Graph](https://github-activity-graph.herokuapp.com/graph?username=abdulrahman0044&theme=dracula)
