@@ -47,6 +47,7 @@ Additionally, I serve as the **African Ambassador** for Kwaai AI Lab, advocating
 - **BB8 Robot**: Built a functional BB8-inspired robot capable of remote-controlled movement and object detection.
 
 **Technologies**: Arduino, Motor Drivers, Bluetooth Module, Ultrasonic Sensors.
+
 ---
 
 ## 🏆 Achievements
@@ -76,4 +77,4 @@ I believe in a future where **humans and machines** are always in the loop, co-c
 ---
 
 ### 🌟 Contribution Graph
-![Contribution Graph](https://github-activity-graph.herokuapp.com/graph?username=abdulrahman0044&theme=dracula)
+[![Abdulrahman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulrahman0044)](https://github.com/ashutosh00710/github-readme-activity-graph)
